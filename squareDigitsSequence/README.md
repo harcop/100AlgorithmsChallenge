@@ -18,7 +18,7 @@ Here's how elements of the sequence are constructed:
 -   a2 = 3^2 + 7^2 = 58
 -   a3 = 5^2 + 8^2 = 89
 -   a4 = 8^2 + 9^2 = 145
--   a5 = 1^2 + 4^2 + 52 = 42
+-   a5 = 1^2 + 4^2 + 52 = 42 // error here in calculation
 -   a6 = 4^2 + 2^2 = 20
 -   a7 = 2^2 + 0^2 = 4
 -   a8 = 4^2 = 1^6, which has already occurred before (a0)

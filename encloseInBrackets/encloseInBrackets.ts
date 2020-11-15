@@ -1,5 +1,5 @@
-function encloseInBrackets(inputString: string): string {
-
+function encloseInBrackets(str: string): string {
+    return `(${str})`;
 }
 
 console.log(encloseInBrackets('abacaba'));

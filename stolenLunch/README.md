@@ -8,7 +8,7 @@ The note is different every day, so you decide to write a function that will dec
 
 **Example**
 For note = "you'll n4v4r 6u4ss 8t: cdja", the output should be
-stolenLunch(note) = "you'll never guess it: 2390".
+stolenLunch(note) = "you'll never guess it: 2390". // digit to letter is wrong
 
 **Hints**
 -   split()

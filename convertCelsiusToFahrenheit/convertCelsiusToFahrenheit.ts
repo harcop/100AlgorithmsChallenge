@@ -1,5 +1,5 @@
-function celsiusToFahrenheit(celsius: number): number {
-
+function celsiusToFahrenheit(c: number): number {
+    return c*9/5+32;
 }
 
 console.log(celsiusToFahrenheit(-30));
